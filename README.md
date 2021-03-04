@@ -3,4 +3,4 @@ https://play.google.com/store/apps/details?id=com.release.rsa_20
 
 
 todo:
-	Unit testing
+	Unit testing / Clean up code.
